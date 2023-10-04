@@ -1,0 +1,26 @@
+
+body{
+  margin: 0;
+  background-color: rgb(231, 231, 231);
+}
+
+header{
+  width: 100vw;
+  height: 10vh;
+  background-color: black;
+}
+
+h1{
+  margin: 0px auto;s
+  color: white;
+}
+
+main{
+  width: 80vw;
+  min-height: 80vh;
+  margin: 40px auto;
+  border-radius: 25px;
+  border: 7px solid rgb(238, 235, 235);
+
+  background-color: rgb(255, 255, 255);
+}
